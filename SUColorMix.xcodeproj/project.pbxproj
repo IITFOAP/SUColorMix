@@ -14,6 +14,7 @@
 		2C7A37662A3719A100D203B3 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A37652A3719A100D203B3 /* SliderView.swift */; };
 		2C7A37682A37218300D203B3 /* RGBView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A37672A37218300D203B3 /* RGBView.swift */; };
 		2C7A376A2A37819A00D203B3 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A37692A37819A00D203B3 /* TextView.swift */; };
+		2C7A376C2A3785A400D203B3 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7A376B2A3785A400D203B3 /* TextFieldView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2C7A37652A3719A100D203B3 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		2C7A37672A37218300D203B3 /* RGBView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBView.swift; sourceTree = "<group>"; };
 		2C7A37692A37819A00D203B3 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		2C7A376B2A3785A400D203B3 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				2C7A37652A3719A100D203B3 /* SliderView.swift */,
 				2C7A37672A37218300D203B3 /* RGBView.swift */,
 				2C7A37692A37819A00D203B3 /* TextView.swift */,
+				2C7A376B2A3785A400D203B3 /* TextFieldView.swift */,
 				2C2F2AAD2A365DC5000A7E1E /* Assets.xcassets */,
 				2C2F2AAF2A365DC5000A7E1E /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				2C7A37662A3719A100D203B3 /* SliderView.swift in Sources */,
 				2C2F2AAC2A365DC4000A7E1E /* ContentView.swift in Sources */,
+				2C7A376C2A3785A400D203B3 /* TextFieldView.swift in Sources */,
 				2C7A37682A37218300D203B3 /* RGBView.swift in Sources */,
 				2C2F2AAA2A365DC4000A7E1E /* SUColorMixApp.swift in Sources */,
 				2C7A376A2A37819A00D203B3 /* TextView.swift in Sources */,
